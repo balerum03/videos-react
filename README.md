@@ -1,6 +1,6 @@
 # Video Search
 
-![screenshot](./appSS.png)
+![screenshot](./appSS.PNG)
 
 This app uses the YouTube API, this is a very simple app where you can search for videos, these videos are gotten from YouTube using its API.
 You can get up to five videos per search.
